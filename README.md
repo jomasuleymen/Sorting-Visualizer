@@ -8,4 +8,4 @@ Visualization sorting algorithms in action.
 2. Run application: npm start
 3. Enjoy playing with codes and learn
 
-You can access it here (use Google Chrome!): https://zhomart2002.github.io/
+You can access it here (use Google Chrome!): https://jomasuleymen.github.io/
